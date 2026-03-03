@@ -5,10 +5,10 @@ This project demonstrates end-to-end full-stack development including backend AP
 ---
 ## 🚀 Live Application
 Frontend (Vercel):  
-👉 [https://your-frontend.vercel.app](https://hrms-lite-delta-ten.vercel.app/)  
+👉 [https://hrms-lite-delta-ten.vercel.app/](https://hrms-lite-delta-ten.vercel.app/)  
 
 Backend API (Render):  
-👉 [https://your-backend.onrender.com/api/](https://hrms-lite-lizn.onrender.com/api/)
+👉 [https://hrms-lite-lizn.onrender.com/api/](https://hrms-lite-lizn.onrender.com/api/)
 
 ---
 ### Deployment
